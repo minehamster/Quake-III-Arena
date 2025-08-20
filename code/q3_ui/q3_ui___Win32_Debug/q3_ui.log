@@ -1,0 +1,105 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1133,5): warning MSB4211: Свойству "GetTargetPathDependsOn" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2243,5)".
+  bg_misc.c
+  q_math.c
+  q_shared.c
+  ui_syscalls.c
+D:\Quake-III-Arena\code\game\q_shared.c(268,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(280,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(723,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(876,8): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(912,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(1072,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(1127,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(1202,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(1203,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\game\q_shared.c(1250,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_addbots.c
+  ui_atoms.c
+D:\Quake-III-Arena\code\q3_ui\ui_atoms.c(41,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_atoms.c(52,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_cdkey.c
+  ui_cinematics.c
+  ui_confirm.c
+  ui_connect.c
+  ui_controls2.c
+D:\Quake-III-Arena\code\q3_ui\ui_controls2.c(671,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_controls2.c(683,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_controls2.c(684,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_controls2.c(745,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_credits.c
+  ui_demo2.c
+D:\Quake-III-Arena\code\q3_ui\ui_demo2.c(232,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_display.c
+  ui_gameinfo.c
+D:\Quake-III-Arena\code\q3_ui\ui_gameinfo.c(121,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_gameinfo.c(128,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_gameinfo.c(195,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_gameinfo.c(196,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_gameinfo.c(382,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_gameinfo.c(383,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_ingame.c
+  ui_main.c
+  ui_menu.c
+  ui_mfield.c
+  ui_mods.c
+  Создание кода...
+  Компиляция...
+  ui_network.c
+  ui_options.c
+  ui_playermodel.c
+D:\Quake-III-Arena\code\q3_ui\ui_playermodel.c(340,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_playermodel.c(481,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_players.c
+D:\Quake-III-Arena\code\q3_ui\ui_players.c(91,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_players.c(93,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_players.c(97,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_players.c(99,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_playersettings.c
+D:\Quake-III-Arena\code\q3_ui\ui_playersettings.c(241,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_preferences.c
+  ui_qmenu.c
+D:\Quake-III-Arena\code\q3_ui\ui_qmenu.c(124,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_qmenu.c(128,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_removebots.c
+  ui_serverinfo.c
+  ui_servers2.c
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(418,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(434,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(437,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(762,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(951,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(956,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(1027,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(1031,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(1035,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(1039,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(1045,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(1049,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_servers2.c(1149,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_setup.c
+  ui_sound.c
+  ui_sparena.c
+  ui_specifyserver.c
+D:\Quake-III-Arena\code\q3_ui\ui_specifyserver.c(81,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_splevel.c
+D:\Quake-III-Arena\code\q3_ui\ui_splevel.c(234,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_splevel.c(236,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_sppostgame.c
+  ui_spreset.c
+  ui_spskill.c
+  ui_startserver.c
+D:\Quake-III-Arena\code\q3_ui\ui_startserver.c(206,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_startserver.c(219,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_startserver.c(1104,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\q3_ui\ui_startserver.c(1162,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_team.c
+  Создание кода...
+  Компиляция...
+  ui_teamorders.c
+  ui_video.c
+  Создание кода...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(D:\Quake-III-Arena\code\q3_ui\q3_ui___Win32_Debug\q3_ui.dll) не соответствует значению свойства выходного файла (D:\Quake-III-Arena\code\Debug\uix86.dll) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1404,5): warning MSB8012: TargetName(q3_ui) не соответствует значению свойства выходного файла (uix86) для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+bg_misc.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+     Создается библиотека Debug/uix86.lib и объект Debug/uix86.exp
+  q3_ui.vcxproj -> D:\Quake-III-Arena\code\q3_ui\q3_ui___Win32_Debug\q3_ui.dll

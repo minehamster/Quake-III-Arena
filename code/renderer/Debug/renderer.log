@@ -1,0 +1,125 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1133,5): warning MSB4211: Свойству "GetTargetPathDependsOn" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2243,5)".
+  jcapimin.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  Создание кода...
+  Компиляция...
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+D:\Quake-III-Arena\code\jpeg-6\jerror.c(173,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\jpeg-6\jerror.c(175,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctflt.c
+  jmemmgr.c
+D:\Quake-III-Arena\code\jpeg-6\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\jpeg-6\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jmemnobs.c
+  jutils.c
+  win_gamma.c
+D:\Quake-III-Arena\code\win32\win_gamma.c(153,2): warning C4996: 'GetVersionExA': объявлен deprecate
+  win_glimp.c
+D:\Quake-III-Arena\code\win32\win_glimp.c(1131,7): warning C4996: 'GetVersionExA': объявлен deprecate
+D:\Quake-III-Arena\code\win32\win_glimp.c(1368,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_glimp.c(1371,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  win_qgl.c
+D:\Quake-III-Arena\code\win32\win_qgl.c(787,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(789,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(791,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(793,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(795,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(797,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(799,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(801,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(803,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(805,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(807,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(839,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(917,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(920,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(923,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(926,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(929,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(932,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(935,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(938,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(3677,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(3679,4): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(3683,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\win32\win_qgl.c(3685,39): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tr_animation.c
+  Создание кода...
+  Компиляция...
+  tr_backend.c
+  tr_bsp.c
+D:\Quake-III-Arena\code\renderer\tr_bsp.c(1704,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_bsp.c(1758,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tr_cmds.c
+  tr_curve.c
+  tr_flares.c
+  tr_font.c
+  tr_image.c
+D:\Quake-III-Arena\code\renderer\tr_image.c(751,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_image.c(1831,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_image.c(1896,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tr_init.c
+D:\Quake-III-Arena\code\renderer\tr_init.c(212,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_init.c(254,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_init.c(257,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_init.c(260,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_init.c(263,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_init.c(266,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_init.c(269,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_init.c(540,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tr_light.c
+  tr_main.c
+  tr_marks.c
+  tr_mesh.c
+  tr_model.c
+D:\Quake-III-Arena\code\renderer\tr_model.c(137,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_model.c(145,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_model.c(146,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tr_noise.c
+  tr_scene.c
+  tr_shade.c
+  tr_shader.c
+D:\Quake-III-Arena\code\renderer\tr_shader.c(1034,23): warning C5287: операнды — это разные типы перечислений "alphaGen_t" и "colorGen_t"; используйте явное приведение для отключения этого предупреждения
+D:\Quake-III-Arena\code\renderer\tr_shader.c(984,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_shader.c(985,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_shader.c(1817,26): warning C5287: операнды — это разные типы перечислений "alphaGen_t" и "colorGen_t"; используйте явное приведение для отключения этого предупреждения
+D:\Quake-III-Arena\code\renderer\tr_shader.c(2887,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Quake-III-Arena\code\renderer\tr_shader.c(2889,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tr_shade_calc.c
+  tr_shadows.c
+  tr_sky.c
+  Создание кода...
+  Компиляция...
+  tr_surface.c
+  tr_world.c
+  Создание кода...
+  renderer.vcxproj -> D:\Quake-III-Arena\code\renderer\Debug\renderer.lib
